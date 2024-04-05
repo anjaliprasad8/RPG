@@ -1,1 +1,2 @@
-# Expo Random Password Generator Project
+# Expo Project
+Random Password Generator Project
